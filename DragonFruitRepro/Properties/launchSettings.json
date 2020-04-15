@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DragonFruitRepro": {
+      "commandName": "Project",
+      "commandLineArgs": "--foo foo"
+    }
+  }
+}
